@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RomanYarov
 - 👀 I’m interested in frontend develop
 - 🌱 I’m currently studying advanced front-end development and a bit of back-end development
-- 💞️ I’m looking to collaborate on ... React develop
+- 💞️ I’m looking to collaborate on React develop
 - 📫 How to reach me aksentv@gmail.com
 
 <!---
